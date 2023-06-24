@@ -40,8 +40,10 @@ Upload the Jupyter notebook for this assignment to your GitHub repository. Make 
 ## References:
 
 https://docs.python.org/3/library/warnings.html
+
 https://pypi.org/project/watermark/
 
+https://docs.bokeh.org/en/latest/docs/examples/interaction/tools/hover_tooltips.html#index-0
 https://stackoverflow.com/questions/43399057/python-bokeh-tooltip-text-formatting#43402959
 https://docs.bokeh.org/en/latest/docs/user_guide/interaction/tooltips.html
 https://docs.bokeh.org/en/latest/docs/reference/models/tools.html#bokeh.models.HoverTool.tooltips
