@@ -21,13 +21,8 @@ Upload the Jupyter notebook for this assignment to your GitHub repository. Make 
 
 
 
-        `conda install -c anaconda SQLAlchemy` **(recommended)** 
-        
-            OR $`pip install SQLAlechemy`
-            
-        `pip install bokeh`
-        
-        `pip install watermark`
+        $ conda install -c anaconda SQLAlchemy
+        $ conda install -c conda-forge voila        
 
 
 
